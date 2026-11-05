@@ -4,6 +4,8 @@ In this project, I use MySQL to answer questions about baseball players, schools
 
 This is the final project of the course *SQL for Data Analysis: Advanced SQL Querying Techniques* by Maven Analytics. The questions come from the course.
 
+I wrote the SQL queries and ran the analysis myself. I used Claude (AI assistant) to streamline publishing the project: reviewing the queries, drafting this README, and setting up the GitHub repository.
+
 ## SQL skills used
 
 - Joins, including joining the same table twice
